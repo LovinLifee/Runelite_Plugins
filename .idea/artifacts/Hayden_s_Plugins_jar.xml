@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Hayden's Plugins:jar">
+    <output-path>$USER_HOME$/.runelite/plugins</output-path>
+    <root id="archive" name="Hayden's Plugins.jar">
+      <element id="module-output" name="Hayden's Plugins" />
+    </root>
+  </artifact>
+</component>
